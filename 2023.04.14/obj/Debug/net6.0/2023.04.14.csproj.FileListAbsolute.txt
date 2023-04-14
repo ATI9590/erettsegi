@@ -1,0 +1,15 @@
+D:\2022-2023\Gulyás Attila\2023.04.14\bin\Debug\net6.0\2023.04.14.exe
+D:\2022-2023\Gulyás Attila\2023.04.14\bin\Debug\net6.0\2023.04.14.deps.json
+D:\2022-2023\Gulyás Attila\2023.04.14\bin\Debug\net6.0\2023.04.14.runtimeconfig.json
+D:\2022-2023\Gulyás Attila\2023.04.14\bin\Debug\net6.0\2023.04.14.dll
+D:\2022-2023\Gulyás Attila\2023.04.14\bin\Debug\net6.0\2023.04.14.pdb
+D:\2022-2023\Gulyás Attila\2023.04.14\obj\Debug\net6.0\2023.04.14.csproj.AssemblyReference.cache
+D:\2022-2023\Gulyás Attila\2023.04.14\obj\Debug\net6.0\2023.04.14.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022-2023\Gulyás Attila\2023.04.14\obj\Debug\net6.0\2023.04.14.AssemblyInfoInputs.cache
+D:\2022-2023\Gulyás Attila\2023.04.14\obj\Debug\net6.0\2023.04.14.AssemblyInfo.cs
+D:\2022-2023\Gulyás Attila\2023.04.14\obj\Debug\net6.0\2023.04.14.csproj.CoreCompileInputs.cache
+D:\2022-2023\Gulyás Attila\2023.04.14\obj\Debug\net6.0\2023.04.14.dll
+D:\2022-2023\Gulyás Attila\2023.04.14\obj\Debug\net6.0\refint\2023.04.14.dll
+D:\2022-2023\Gulyás Attila\2023.04.14\obj\Debug\net6.0\2023.04.14.pdb
+D:\2022-2023\Gulyás Attila\2023.04.14\obj\Debug\net6.0\2023.04.14.genruntimeconfig.cache
+D:\2022-2023\Gulyás Attila\2023.04.14\obj\Debug\net6.0\ref\2023.04.14.dll
