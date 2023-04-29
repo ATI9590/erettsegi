@@ -1,0 +1,15 @@
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\obj\Debug\net6.0\2018-okt.csproj.AssemblyReference.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\obj\Debug\net6.0\2018-okt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\obj\Debug\net6.0\2018-okt.AssemblyInfoInputs.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\obj\Debug\net6.0\2018-okt.AssemblyInfo.cs
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\obj\Debug\net6.0\2018-okt.csproj.CoreCompileInputs.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\bin\Debug\net6.0\2018-okt.exe
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\bin\Debug\net6.0\2018-okt.deps.json
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\bin\Debug\net6.0\2018-okt.runtimeconfig.json
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\bin\Debug\net6.0\2018-okt.dll
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\bin\Debug\net6.0\2018-okt.pdb
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\obj\Debug\net6.0\2018-okt.dll
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\obj\Debug\net6.0\refint\2018-okt.dll
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\obj\Debug\net6.0\2018-okt.pdb
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\obj\Debug\net6.0\2018-okt.genruntimeconfig.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\2018-okt\obj\Debug\net6.0\ref\2018-okt.dll

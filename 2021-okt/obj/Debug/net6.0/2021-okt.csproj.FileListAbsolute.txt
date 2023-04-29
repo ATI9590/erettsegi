@@ -1,0 +1,15 @@
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\bin\Debug\net6.0\2021-okt.exe
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\bin\Debug\net6.0\2021-okt.deps.json
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\bin\Debug\net6.0\2021-okt.runtimeconfig.json
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\bin\Debug\net6.0\2021-okt.dll
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\bin\Debug\net6.0\2021-okt.pdb
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\obj\Debug\net6.0\2021-okt.csproj.AssemblyReference.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\obj\Debug\net6.0\2021-okt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\obj\Debug\net6.0\2021-okt.AssemblyInfoInputs.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\obj\Debug\net6.0\2021-okt.AssemblyInfo.cs
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\obj\Debug\net6.0\2021-okt.csproj.CoreCompileInputs.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\obj\Debug\net6.0\2021-okt.dll
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\obj\Debug\net6.0\refint\2021-okt.dll
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\obj\Debug\net6.0\2021-okt.pdb
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\obj\Debug\net6.0\2021-okt.genruntimeconfig.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\2021-okt\obj\Debug\net6.0\ref\2021-okt.dll

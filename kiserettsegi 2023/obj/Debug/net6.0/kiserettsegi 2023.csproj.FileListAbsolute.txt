@@ -1,0 +1,15 @@
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\bin\Debug\net6.0\kiserettsegi 2023.exe
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\bin\Debug\net6.0\kiserettsegi 2023.deps.json
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\bin\Debug\net6.0\kiserettsegi 2023.runtimeconfig.json
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\bin\Debug\net6.0\kiserettsegi 2023.dll
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\bin\Debug\net6.0\kiserettsegi 2023.pdb
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\obj\Debug\net6.0\kiserettsegi 2023.csproj.AssemblyReference.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\obj\Debug\net6.0\kiserettsegi 2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\obj\Debug\net6.0\kiserettsegi 2023.AssemblyInfoInputs.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\obj\Debug\net6.0\kiserettsegi 2023.AssemblyInfo.cs
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\obj\Debug\net6.0\kiserettsegi 2023.csproj.CoreCompileInputs.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\obj\Debug\net6.0\kiserettsegi 2023.dll
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\obj\Debug\net6.0\refint\kiserettsegi 2023.dll
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\obj\Debug\net6.0\kiserettsegi 2023.pdb
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\obj\Debug\net6.0\kiserettsegi 2023.genruntimeconfig.cache
+C:\Users\Attila\Documents\GitHub\erettsegi\kiserettsegi 2023\obj\Debug\net6.0\ref\kiserettsegi 2023.dll
