@@ -1,0 +1,15 @@
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\bin\Debug\net6.0\2020-okt.exe
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\bin\Debug\net6.0\2020-okt.deps.json
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\bin\Debug\net6.0\2020-okt.runtimeconfig.json
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\bin\Debug\net6.0\2020-okt.dll
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\bin\Debug\net6.0\2020-okt.pdb
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\obj\Debug\net6.0\2020-okt.csproj.AssemblyReference.cache
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\obj\Debug\net6.0\2020-okt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\obj\Debug\net6.0\2020-okt.AssemblyInfoInputs.cache
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\obj\Debug\net6.0\2020-okt.AssemblyInfo.cs
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\obj\Debug\net6.0\2020-okt.csproj.CoreCompileInputs.cache
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\obj\Debug\net6.0\2020-okt.dll
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\obj\Debug\net6.0\refint\2020-okt.dll
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\obj\Debug\net6.0\2020-okt.pdb
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\obj\Debug\net6.0\2020-okt.genruntimeconfig.cache
+C:\Users\gulya\Documents\GitHub\erettsegi\2020-okt\obj\Debug\net6.0\ref\2020-okt.dll
